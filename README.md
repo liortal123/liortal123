@@ -1,7 +1,7 @@
 ### Hi everyone! 👋
-My name is Lior :smile: 
-I'm a third year student in Tel Aviv University. 
-I'm looking for my first programming job.
+My name is Lior :smile: <br/>
+I'm a third year student in Tel Aviv University. <br/>
+I'm looking for my first programming job.<br/>
 The programming languages that I know are: Python, Java and C. 
 
 <!--
