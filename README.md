@@ -4,7 +4,6 @@ I'm a third year computer science and economics student in Tel Aviv University. 
 I'm looking for my first programming job! <br/>
 The programming languages that I know are: Python, Java and C. <br/>
 Resume: https://github.com/liortal123/CV-GradeSheet/blob/main/CV%20Lior%20Tal.pdf  <br/>
-Grade Sheet: https://github.com/liortal123/CV-GradeSheet/blob/main/Grade%20sheet.pdf
 
 <!--
 **liortal123/liortal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
