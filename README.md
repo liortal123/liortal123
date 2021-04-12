@@ -3,6 +3,7 @@ My name is Lior. <br/>
 I'm a third year computer science and economics student in Tel Aviv University. <br/>
 I'm looking for my first programming job! <br/>
 The programming languages that I know are: Python, Java and C. <br/>
+Web technologies- HTML, CSS, JavaScript, React, Node.js, MySQL, etc. <br/>
 Resume: https://github.com/liortal123/CV-GradeSheet/blob/main/CV%20Lior%20Tal.pdf  <br/>
 
 <!--
